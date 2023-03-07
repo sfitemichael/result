@@ -1,0 +1,15 @@
+{
+  "name": "renderearnbd",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sfitemichael/renderearnbd.git",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
